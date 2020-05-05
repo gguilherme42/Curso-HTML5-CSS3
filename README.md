@@ -1,2 +1,2 @@
-# Curso-HTML5-CSS3-JS
-Curso de HTML5, CSS3 e JS do canadal Curso Em Vídeo.
+# Curso de HTML e CSS
+Curso de HTML5, CSS3 do canadal Curso Em Vídeo.
