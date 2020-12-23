@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.bloco {
+    display: inline-block;
+    width: 500px;
+}
+
+.thumb-link {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
