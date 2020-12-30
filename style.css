@@ -1,6 +1,9 @@
+
+
 body {
     background-color: rgb(43, 39, 39);
     color: rgb(201, 192, 192);
+
 }
 
 a {
@@ -11,7 +14,8 @@ a {
     position: fixed;
     width: 100vw;
     top: 0;
-    z-index: 1;;
+    z-index: 1;
+    margin-bottom: 10px;
 }
 
 .menu ul {
@@ -25,14 +29,14 @@ a {
 
 .menu a {
     display: block;
-    width: 100%;
-    text-align: center;
-    padding: 10px 10px;
+    width: 100% ;
+    text-align: center ;
+    padding: 10px 10px ;
     transition: background-color 0.5s, color 0.5s;
   }
   
   .menu a:active,
   .menu a:hover {
-    background-color: teal;
+    background-color: teal ;
     color: white;
   }
