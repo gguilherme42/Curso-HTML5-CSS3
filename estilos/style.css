@@ -3,7 +3,6 @@
 body {
     background-color: rgb(43, 39, 39);
     color: rgb(201, 192, 192);
-
 }
 
 a {
@@ -11,16 +10,21 @@ a {
 }
 
 .menu {
+    background-color: rgb(94, 91, 91);
     position: fixed;
     width: 100vw;
+    padding: 0 auto;
+    height: 8vh;
     top: 0;
     z-index: 1;
-    margin-bottom: 10px;
 }
 
 .menu ul {
     display: flex;
     justify-content: space-around;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0 auto 0 auto;
 }
 
 .menu li {
@@ -39,4 +43,16 @@ a {
   .menu a:hover {
     background-color: teal ;
     color: white;
+  }
+
+  .menu a img {
+    height: 30px;
+    width: 30px;
+}
+
+#header_home, #Modulo_1,
+#Modulo_2, #Modulo_3, 
+#Modulo_4, #Modulo_5 {
+      margin-top: 80px;
+      padding-bottom: 10px;
   }
