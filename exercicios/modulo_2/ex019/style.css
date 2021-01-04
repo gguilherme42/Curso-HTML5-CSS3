@@ -20,4 +20,22 @@ h2 {
     color: rgb(2, 100, 67);
 }
 
+.basico {
+    color: rgb(2, 100, 67);
+}
+
+.intermediario {
+    color: rgb(22, 100, 2);
+
+}
+
+.avancado {
+    color: rgb(100, 30, 2);
+
+}
+
+.destaque {
+    background-color: rgba(212, 212, 106, 0.527);
+}
+
 
