@@ -39,6 +39,24 @@ main {
 
 }
 
+main h2, main h3 {
+    margin: 10px auto;
+}
+
 article p {
     text-indent: 40px;
+}
+
+article#curiosidade {
+    background-color: rgb(219, 177, 177);
+}
+
+article#curiosidade h2 {
+    color: white;
+    background-color: rgb(126, 39, 39);
+}
+
+footer {
+    margin: 20px auto;
+    text-align: center;
 }
